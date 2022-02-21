@@ -57,7 +57,8 @@ def NbreRomain(n):
         
                     
             
-NbreRomain(9)
+if __name__ == '__main__':
+    NbreRomain(8)
             
     
  
